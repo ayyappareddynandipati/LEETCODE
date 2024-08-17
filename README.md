@@ -9,6 +9,7 @@
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 | [2630-alternating-digit-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2630-alternating-digit-sum) |
+| [3199-distribute-candies-among-children-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3199-distribute-candies-among-children-i) |
 ## String
 |  |
 | ------- |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
+## Combinatorics
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3199-distribute-candies-among-children-i) |
+## Enumeration
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
