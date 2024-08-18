@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1585-the-kth-factor-of-n](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1585-the-kth-factor-of-n) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -47,4 +48,16 @@
 |  |
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3199-distribute-candies-among-children-i) |
+## Hash Table
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
