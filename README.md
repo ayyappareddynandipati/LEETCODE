@@ -28,6 +28,7 @@
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3226-minimum-number-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3226-minimum-number-game) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
