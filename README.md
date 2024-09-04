@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
@@ -57,6 +58,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
