@@ -19,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -30,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
@@ -64,6 +66,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [3226-minimum-number-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3226-minimum-number-game) |
@@ -124,6 +127,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Matrix
 |  |
