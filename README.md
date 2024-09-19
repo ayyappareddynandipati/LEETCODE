@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0189-rotate-array) |
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
@@ -57,6 +59,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0189-rotate-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Search
 |  |
