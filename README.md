@@ -18,6 +18,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2630-alternating-digit-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2630-alternating-digit-sum) |
 | [3199-distribute-candies-among-children-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3199-distribute-candies-among-children-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
 | ------- |
