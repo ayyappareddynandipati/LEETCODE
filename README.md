@@ -47,6 +47,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1656-count-good-triplets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -108,6 +109,7 @@
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -177,6 +179,7 @@
 ## Counting
 |  |
 | ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Brainteaser
