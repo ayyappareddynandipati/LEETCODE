@@ -50,6 +50,7 @@
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
@@ -138,6 +139,7 @@
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Prefix Sum
 |  |
