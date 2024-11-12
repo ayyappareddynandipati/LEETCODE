@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0441-arranging-coins](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0441-arranging-coins) |
@@ -27,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
