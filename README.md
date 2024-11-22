@@ -64,6 +64,7 @@
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
@@ -216,6 +217,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1940-maximum-xor-for-each-query](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Linked List
