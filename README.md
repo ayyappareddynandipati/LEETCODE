@@ -26,6 +26,7 @@
 | [2824-check-if-the-number-is-fascinating](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3199-distribute-candies-among-children-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3199-distribute-candies-among-children-i) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -109,6 +110,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -163,6 +165,7 @@
 | [3226-minimum-number-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -208,6 +211,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [3226-minimum-number-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3226-minimum-number-game) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Game Theory
 |  |
 | ------- |
