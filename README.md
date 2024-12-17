@@ -42,6 +42,7 @@
 | [0874-backspace-string-compare](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0953-reverse-only-letters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1542-consecutive-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1894-merge-strings-alternately) |
