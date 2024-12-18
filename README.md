@@ -87,6 +87,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1656-count-good-triplets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -302,10 +303,12 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0874-backspace-string-compare) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting Sort
 |  |
 | ------- |
