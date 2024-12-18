@@ -78,6 +78,7 @@
 | [0724-find-pivot-index](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1031-add-to-array-form-of-integer) |
@@ -121,6 +122,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0953-reverse-only-letters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -157,6 +159,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -227,6 +230,7 @@
 | [0389-find-the-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
+| [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1054-complement-of-base-10-integer) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
@@ -243,6 +247,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Prefix Sum
