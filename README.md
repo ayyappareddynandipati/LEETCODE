@@ -49,6 +49,7 @@
 | [1894-merge-strings-alternately](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1944-truncate-sentence) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2232-adding-spaces-to-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -208,6 +209,7 @@
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -298,6 +300,7 @@
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Brainteaser
@@ -313,6 +316,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String Matching
 |  |
 | ------- |
