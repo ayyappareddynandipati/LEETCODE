@@ -57,6 +57,7 @@
 | [3412-permutation-difference-between-two-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3451-string-compression-iii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3451-string-compression-iii) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3567-convert-date-to-binary](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3567-convert-date-to-binary) |
 ## Number Theory
 |  |
@@ -271,6 +272,7 @@
 | [0561-array-partition](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0561-array-partition) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Matrix
 |  |
 | ------- |
