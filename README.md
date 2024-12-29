@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
@@ -363,5 +364,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
