@@ -368,5 +368,6 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
