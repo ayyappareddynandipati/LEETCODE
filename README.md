@@ -128,6 +128,7 @@
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -236,6 +237,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
