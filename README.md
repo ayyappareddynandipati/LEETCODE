@@ -31,6 +31,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3582-find-indices-of-stable-mountains) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
