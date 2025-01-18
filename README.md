@@ -118,6 +118,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1833-find-the-highest-altitude) |
+| [1848-sum-of-unique-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/1848-sum-of-unique-elements) |
 | [1940-maximum-xor-for-each-query](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -249,6 +250,7 @@
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/1848-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -361,6 +363,7 @@
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/1848-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
