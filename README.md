@@ -156,6 +156,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -179,6 +180,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3226-minimum-number-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
 | ------- |
