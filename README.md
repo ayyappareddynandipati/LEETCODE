@@ -133,6 +133,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/ayyappa4512/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -260,6 +261,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/ayyappa4512/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -374,6 +376,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/ayyappa4512/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ayyappa4512/LEETCODE/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayyappa4512/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayyappa4512/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
