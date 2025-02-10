@@ -68,6 +68,7 @@
 | [3312-number-of-changing-keys](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3312-number-of-changing-keys) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/ayyappa4512/LEETCODE/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3451-string-compression-iii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3567-convert-date-to-binary](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3567-convert-date-to-binary) |
@@ -249,6 +250,7 @@
 | [3226-minimum-number-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayyappa4512/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/ayyappa4512/LEETCODE/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Combinatorics
@@ -435,6 +437,7 @@
 | [0739-daily-temperatures](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3447-clear-digits](https://github.com/ayyappa4512/LEETCODE/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
