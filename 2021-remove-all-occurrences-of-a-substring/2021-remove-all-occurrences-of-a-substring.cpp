@@ -5,10 +5,8 @@ public:
         for(char c : s)
         {
             res+=c;
-            int val = res.find(part);
-            if(val!=-1)
-            {
-                res.erase(val,part.size());
+             if (res.size() >= part.size() && res.substr(res.size() - part.size()) == part) {
+                res.erase(res.size() - part.size()); 
             }
         }
         return res;
