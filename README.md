@@ -65,6 +65,7 @@
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ayyappa4512/LEETCODE/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/ayyappa4512/LEETCODE/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2580-circular-sentence](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2580-circular-sentence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ayyappa4512/LEETCODE/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
