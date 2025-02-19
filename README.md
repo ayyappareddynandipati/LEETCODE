@@ -79,6 +79,7 @@
 | [3451-string-compression-iii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3451-string-compression-iii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3567-convert-date-to-binary](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3567-convert-date-to-binary) |
+| [3636-check-balanced-string](https://github.com/ayyappa4512/LEETCODE/tree/master/3636-check-balanced-string) |
 ## Number Theory
 |  |
 | ------- |
