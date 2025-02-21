@@ -474,5 +474,6 @@
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/ayyappa4512/LEETCODE/tree/master/0595-big-countries) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ayyappa4512/LEETCODE/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
