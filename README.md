@@ -90,6 +90,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0046-permutations) |
+| [0059-spiral-matrix-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0090-subsets-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0119-pascals-triangle-ii) |
@@ -245,6 +246,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/ayyappa4512/LEETCODE/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0874-backspace-string-compare) |
@@ -368,6 +370,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayyappa4512/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
