@@ -474,6 +474,7 @@
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/ayyappa4512/LEETCODE/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ayyappa4512/LEETCODE/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ayyappa4512/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ayyappa4512/LEETCODE/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
