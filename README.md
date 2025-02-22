@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ayyappa4512/LEETCODE/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0090-subsets-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0090-subsets-ii) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ayyappa4512/LEETCODE/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0441-arranging-coins](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0441-arranging-coins) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
