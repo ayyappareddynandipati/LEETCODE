@@ -101,6 +101,7 @@
 | [0118-pascals-triangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/ayyappa4512/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayyappa4512/LEETCODE/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ayyappa4512/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0389-find-the-difference) |
@@ -301,6 +303,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayyappa4512/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/ayyappa4512/LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
@@ -441,6 +444,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayyappa4512/LEETCODE/tree/master/0169-majority-element) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/ayyappa4512/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -464,6 +468,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayyappa4512/LEETCODE/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0191-number-of-1-bits) |
 ## Sliding Window
 |  |
