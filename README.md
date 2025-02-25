@@ -96,6 +96,7 @@
 | [0035-search-insert-position](https://github.com/ayyappa4512/LEETCODE/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/ayyappa4512/LEETCODE/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0119-pascals-triangle-ii) |
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayyappa4512/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ayyappa4512/LEETCODE/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayyappa4512/LEETCODE/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
@@ -238,6 +240,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ayyappa4512/LEETCODE/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0389-find-the-difference) |
