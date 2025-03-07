@@ -28,6 +28,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2610-closest-prime-numbers-in-range](https://github.com/ayyappa4512/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
 | [2630-alternating-digit-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ayyappa4512/LEETCODE/tree/master/2649-count-total-number-of-colored-cells) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2824-check-if-the-number-is-fascinating) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1585-the-kth-factor-of-n) |
+| [2610-closest-prime-numbers-in-range](https://github.com/ayyappa4512/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
 ## Array
 |  |
 | ------- |
