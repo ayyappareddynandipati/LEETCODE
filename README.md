@@ -61,6 +61,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/ayyappa4512/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayyappa4512/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ayyappa4512/LEETCODE/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -359,6 +360,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ayyappa4512/LEETCODE/tree/master/1364-tuple-with-same-product) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayyappa4512/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -535,6 +537,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayyappa4512/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayyappa4512/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayyappa4512/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayyappa4512/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## String Matching
