@@ -48,6 +48,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ayyappa4512/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayyappa4512/LEETCODE/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0389-find-the-difference) |
@@ -347,6 +348,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ayyappa4512/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ayyappa4512/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ayyappa4512/LEETCODE/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ayyappa4512/LEETCODE/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
