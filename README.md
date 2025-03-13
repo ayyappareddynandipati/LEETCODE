@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayyappa4512/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ayyappa4512/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ayyappa4512/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
@@ -560,6 +561,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayyappa4512/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/ayyappa4512/LEETCODE/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0874-backspace-string-compare) |
