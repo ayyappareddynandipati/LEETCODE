@@ -142,6 +142,7 @@
 | [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayyappa4512/LEETCODE/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0414-third-maximum-number) |
@@ -308,6 +309,7 @@
 | [0075-sort-colors](https://github.com/ayyappa4512/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayyappa4512/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayyappa4512/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0389-find-the-difference) |
@@ -380,6 +382,7 @@
 | [0169-majority-element](https://github.com/ayyappa4512/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayyappa4512/LEETCODE/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
@@ -541,6 +544,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayyappa4512/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ayyappa4512/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/ayyappa4512/LEETCODE/tree/master/1364-tuple-with-same-product) |
