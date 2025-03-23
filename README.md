@@ -158,6 +158,7 @@
 | [0724-find-pivot-index](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/ayyappa4512/LEETCODE/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
@@ -296,6 +297,7 @@
 | [0441-arranging-coins](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0441-arranging-coins) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/ayyappa4512/LEETCODE/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ayyappa4512/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayyappa4512/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
