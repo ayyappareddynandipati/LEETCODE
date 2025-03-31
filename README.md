@@ -614,6 +614,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayyappa4512/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/ayyappa4512/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/ayyappa4512/LEETCODE/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0874-backspace-string-compare) |
@@ -657,5 +658,10 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ayyappa4512/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayyappa4512/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ayyappa4512/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
