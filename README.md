@@ -10,6 +10,7 @@
 | [0069-sqrtx](https://github.com/ayyappa4512/LEETCODE/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ayyappa4512/LEETCODE/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/0415-add-strings) |
@@ -112,6 +113,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ayyappa4512/LEETCODE/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1585-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ayyappa4512/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
 ## Array
@@ -145,6 +147,7 @@
 | [0169-majority-element](https://github.com/ayyappa4512/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ayyappa4512/LEETCODE/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
@@ -387,6 +390,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ayyappa4512/LEETCODE/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1656-count-good-triplets) |
 | [3199-distribute-candies-among-children-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3199-distribute-candies-among-children-i) |
 | [3221-find-the-peaks](https://github.com/ayyappa4512/LEETCODE/tree/master/3221-find-the-peaks) |
