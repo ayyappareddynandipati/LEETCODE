@@ -240,6 +240,7 @@
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayyappa4512/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ayyappa4512/LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3206-find-common-elements-between-two-arrays) |
