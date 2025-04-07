@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ayyappa4512/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ayyappa4512/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ayyappa4512/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ayyappa4512/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ayyappa4512/LEETCODE/tree/master/0069-sqrtx) |
@@ -129,6 +130,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayyappa4512/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayyappa4512/LEETCODE/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ayyappa4512/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ayyappa4512/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ayyappa4512/LEETCODE/tree/master/0066-plus-one) |
@@ -521,6 +523,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ayyappa4512/LEETCODE/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ayyappa4512/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
