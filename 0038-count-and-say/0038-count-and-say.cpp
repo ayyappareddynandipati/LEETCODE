@@ -1,20 +1,23 @@
 class Solution {
 public:
     string countAndSay(int n) {
-        string val="1";
-        for(int i=2;i<=n;i++){
-            string s="";
-            int cnt=1;
-            for(int j=0;j<val.length();j++){
-                if(j+1<val.length() && val[j]==val[j+1]){
-                    cnt++;
-                }else{
-                    s+=to_string(cnt)+val[j];
-                    cnt=1;
+        string current = "1";
+
+        for (int i = 2; i <= n; ++i) {
+            string next;
+            int count = 1;
+            for (int j = 1; j < current.size(); ++j) {
+                if (current[j] == current[j - 1]) {
+                    ++count;
+                } else {
+                    next += to_string(count) + current[j - 1];
+                    count = 1;
                 }
             }
-            val=s;
+            next += to_string(count) + current.back(); // last group
+            current = move(next); // move instead of copy for performance
         }
-        return val;
+
+        return current;
     }
 };
