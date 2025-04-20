@@ -18,6 +18,7 @@
 | [0441-arranging-coins](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0507-perfect-number) |
 | [0650-2-keys-keyboard](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0650-2-keys-keyboard) |
+| [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1086-divisor-game) |
@@ -177,6 +178,7 @@
 | [0739-daily-temperatures](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ayyappa4512/LEETCODE/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayyappa4512/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
@@ -437,6 +439,7 @@
 | [0496-next-greater-element-i](https://github.com/ayyappa4512/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
+| [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
@@ -531,6 +534,7 @@
 | [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0561-array-partition) |
+| [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ayyappa4512/LEETCODE/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/ayyappa4512/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
