@@ -270,6 +270,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/ayyappa4512/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayyappa4512/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
+| [3324-split-the-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3324-split-the-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayyappa4512/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -479,6 +480,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayyappa4512/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayyappa4512/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3324-split-the-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3324-split-the-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayyappa4512/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -638,6 +640,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ayyappa4512/LEETCODE/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayyappa4512/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayyappa4512/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3324-split-the-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Brainteaser
 |  |
