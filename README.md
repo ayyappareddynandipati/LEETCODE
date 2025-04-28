@@ -676,6 +676,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayyappa4512/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/ayyappa4512/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ayyappa4512/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ayyappa4512/LEETCODE/tree/master/0682-baseball-game) |
@@ -724,11 +725,13 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayyappa4512/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayyappa4512/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayyappa4512/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 ## Recursion
 |  |
 | ------- |
