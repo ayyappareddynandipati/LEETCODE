@@ -110,6 +110,7 @@
 | [2580-circular-sentence](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2580-circular-sentence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ayyappa4512/LEETCODE/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3312-number-of-changing-keys](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3312-number-of-changing-keys) |
@@ -412,6 +413,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/ayyappa4512/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/ayyappa4512/LEETCODE/tree/master/2698-find-the-array-concatenation-value) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayyappa4512/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -691,6 +693,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayyappa4512/LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayyappa4512/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/ayyappa4512/LEETCODE/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
