@@ -217,6 +217,7 @@
 | [1656-count-good-triplets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/ayyappa4512/LEETCODE/tree/master/1839-decode-xored-array) |
 | [1848-sum-of-unique-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/1848-sum-of-unique-elements) |
@@ -402,6 +403,7 @@
 | [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayyappa4512/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -697,6 +699,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayyappa4512/LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayyappa4512/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/ayyappa4512/LEETCODE/tree/master/3447-clear-digits) |
@@ -740,6 +743,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayyappa4512/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2195-time-needed-to-buy-tickets) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayyappa4512/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
