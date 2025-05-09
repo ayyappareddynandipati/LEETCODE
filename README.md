@@ -750,6 +750,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayyappa4512/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0969-number-of-recent-calls](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2195-time-needed-to-buy-tickets) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayyappa4512/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -760,6 +761,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ayyappa4512/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Recursion
 |  |
@@ -773,4 +775,5 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
