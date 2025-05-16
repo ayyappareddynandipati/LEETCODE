@@ -217,6 +217,7 @@
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-design-browser-history](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1582-design-browser-history) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/ayyappa4512/LEETCODE/tree/master/1646-kth-missing-positive-number) |
@@ -625,6 +626,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0725-split-linked-list-in-parts) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayyappa4512/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
+| [1582-design-browser-history](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1582-design-browser-history) |
 | [2411-spiral-matrix-iv](https://github.com/ayyappa4512/LEETCODE/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
@@ -717,6 +719,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-design-browser-history](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1582-design-browser-history) |
 | [1666-make-the-string-great](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayyappa4512/LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -779,6 +782,7 @@
 | [0937-online-stock-span](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -792,4 +796,9 @@
 | ------- |
 | [0937-online-stock-span](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0969-number-of-recent-calls) |
+| [1582-design-browser-history](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
