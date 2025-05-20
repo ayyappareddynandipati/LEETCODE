@@ -191,6 +191,7 @@
 | [0724-find-pivot-index](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/ayyappa4512/LEETCODE/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
@@ -396,6 +397,7 @@
 | [0561-array-partition](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0958-sort-array-by-parity-ii) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -583,6 +585,7 @@
 | [0410-split-array-largest-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0561-array-partition) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -722,6 +725,7 @@
 | [0503-next-greater-element-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ayyappa4512/LEETCODE/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0943-sum-of-subarray-minimums) |
@@ -748,6 +752,7 @@
 | [0496-next-greater-element-i](https://github.com/ayyappa4512/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
