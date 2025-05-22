@@ -94,6 +94,7 @@
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayyappa4512/LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -229,6 +230,7 @@
 | [1651-shuffle-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1720-crawler-log-folder](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1833-find-the-highest-altitude) |
@@ -738,6 +740,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1582-design-browser-history) |
 | [1666-make-the-string-great](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayyappa4512/LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayyappa4512/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
