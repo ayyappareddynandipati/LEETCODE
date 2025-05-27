@@ -44,6 +44,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/ayyappa4512/LEETCODE/tree/master/2649-count-total-number-of-colored-cells) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2998-count-symmetric-integers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2998-count-symmetric-integers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3199-distribute-candies-among-children-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayyappa4512/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3321-type-of-triangle) |
