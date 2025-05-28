@@ -54,6 +54,7 @@
 | [3567-convert-date-to-binary](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3830-find-closest-person](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
