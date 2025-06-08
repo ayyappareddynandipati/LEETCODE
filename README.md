@@ -675,6 +675,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -839,6 +840,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0386-lexicographical-numbers) |
 ## Data Stream
 |  |
 | ------- |
