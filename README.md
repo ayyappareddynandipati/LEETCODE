@@ -15,6 +15,7 @@
 | [0204-count-primes](https://github.com/ayyappa4512/LEETCODE/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0504-base-7) |
@@ -557,6 +558,7 @@
 | [0119-pascals-triangle-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyappa4512/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
@@ -680,6 +682,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0279-perfect-squares) |
 | [1484-linked-list-in-binary-tree](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
