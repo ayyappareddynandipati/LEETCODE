@@ -144,6 +144,7 @@
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/ayyappa4512/LEETCODE/tree/master/3636-check-balanced-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -548,6 +549,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayyappa4512/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -714,6 +716,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayyappa4512/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Brainteaser
 |  |
 | ------- |
