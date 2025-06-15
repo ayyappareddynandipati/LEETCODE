@@ -148,6 +148,7 @@
 | [3567-convert-date-to-binary](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/ayyappa4512/LEETCODE/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3811-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -479,6 +480,7 @@
 | [3447-clear-digits](https://github.com/ayyappa4512/LEETCODE/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3811-reverse-degree-of-a-string) |
 ## Combinatorics
 |  |
 | ------- |
