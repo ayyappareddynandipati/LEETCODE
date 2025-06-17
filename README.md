@@ -13,6 +13,7 @@
 | [0171-excel-sheet-column-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ayyappa4512/LEETCODE/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0223-rectangle-area) |
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0279-perfect-squares) |
@@ -869,4 +870,8 @@
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1582-design-browser-history) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
