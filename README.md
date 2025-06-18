@@ -318,6 +318,7 @@
 | [3221-find-the-peaks](https://github.com/ayyappa4512/LEETCODE/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayyappa4512/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayyappa4512/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3321-type-of-triangle) |
@@ -443,6 +444,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3226-minimum-number-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3226-minimum-number-game) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -639,6 +641,7 @@
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayyappa4512/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Matrix
 |  |
