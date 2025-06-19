@@ -288,6 +288,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/ayyappa4512/LEETCODE/tree/master/2411-spiral-matrix-iv) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ayyappa4512/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -438,6 +439,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayyappa4512/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -633,6 +635,7 @@
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ayyappa4512/LEETCODE/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/ayyappa4512/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/2469-longest-subsequence-with-limited-sum) |
