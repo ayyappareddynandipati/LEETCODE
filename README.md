@@ -290,6 +290,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayyappa4512/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ayyappa4512/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -378,6 +379,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayyappa4512/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayyappa4512/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/ayyappa4512/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
