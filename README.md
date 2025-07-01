@@ -156,6 +156,7 @@
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3567-convert-date-to-binary) |
+| [3617-find-the-original-typed-string-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/ayyappa4512/LEETCODE/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
