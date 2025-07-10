@@ -75,6 +75,7 @@
 | [3817-maximum-containers-on-a-ship](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3859-maximum-product-of-two-digits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
@@ -477,6 +478,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3859-maximum-product-of-two-digits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
