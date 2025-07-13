@@ -16,12 +16,8 @@ public:
         while(i<players.size() && j<trainers.size()){
             if(players[i]<=trainers[j]){
                 i++;
-                j++;
-                cnt++;
-            }else{
-                j++;
-            }
+            }j++;
         }
-        return cnt;
+        return i;
     }
 };
