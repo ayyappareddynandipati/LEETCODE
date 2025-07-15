@@ -154,6 +154,7 @@
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3312-number-of-changing-keys) |
+| [3396-valid-word](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/ayyappa4512/LEETCODE/tree/master/3447-clear-digits) |
