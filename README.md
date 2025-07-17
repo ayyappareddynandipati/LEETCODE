@@ -260,6 +260,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayyappa4512/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayyappa4512/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -469,6 +470,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0958-sort-array-by-parity-ii) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayyappa4512/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -657,6 +659,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1054-complement-of-base-10-integer) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/ayyappa4512/LEETCODE/tree/master/1839-decode-xored-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
@@ -771,6 +774,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/ayyappa4512/LEETCODE/tree/master/1364-tuple-with-same-product) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
