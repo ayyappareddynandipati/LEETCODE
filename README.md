@@ -115,6 +115,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayyappa4512/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ayyappa4512/LEETCODE/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
@@ -256,6 +257,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ayyappa4512/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/ayyappa4512/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayyappa4512/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -756,6 +758,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -938,6 +941,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Data Stream
 |  |
 | ------- |
