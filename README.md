@@ -283,6 +283,7 @@
 | [1720-crawler-log-folder](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1813-maximum-erasure-value](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/ayyappa4512/LEETCODE/tree/master/1839-decode-xored-array) |
 | [1848-sum-of-unique-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/1848-sum-of-unique-elements) |
@@ -580,6 +581,7 @@
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ayyappa4512/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -824,6 +826,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayyappa4512/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayyappa4512/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayyappa4512/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayyappa4512/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
