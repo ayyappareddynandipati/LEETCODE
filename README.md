@@ -142,6 +142,7 @@
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/ayyappa4512/LEETCODE/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayyappa4512/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/ayyappa4512/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/ayyappa4512/LEETCODE/tree/master/2107-find-unique-binary-string) |
@@ -601,6 +602,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/ayyappa4512/LEETCODE/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ayyappa4512/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
@@ -809,6 +811,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ayyappa4512/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ayyappa4512/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
