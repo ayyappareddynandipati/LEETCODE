@@ -253,6 +253,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayyappa4512/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
+| [0940-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-smallest-range-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0944-smallest-range-i) |
@@ -588,6 +589,7 @@
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
 | [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
+| [0940-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
@@ -850,6 +852,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayyappa4512/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayyappa4512/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0940-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayyappa4512/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
