@@ -153,6 +153,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/ayyappa4512/LEETCODE/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayyappa4512/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
@@ -328,6 +329,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/ayyappa4512/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
