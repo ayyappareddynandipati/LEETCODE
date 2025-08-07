@@ -158,6 +158,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayyappa4512/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2580-circular-sentence) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ayyappa4512/LEETCODE/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -345,6 +346,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/ayyappa4512/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayyappa4512/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ayyappa4512/LEETCODE/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
