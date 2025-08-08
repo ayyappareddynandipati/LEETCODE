@@ -154,6 +154,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/ayyappa4512/LEETCODE/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayyappa4512/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
@@ -621,6 +622,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/ayyappa4512/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ayyappa4512/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -829,6 +831,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/ayyappa4512/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ayyappa4512/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayyappa4512/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ayyappa4512/LEETCODE/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
