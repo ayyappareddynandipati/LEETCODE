@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ayyappa4512/LEETCODE/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0279-perfect-squares) |
@@ -690,6 +691,7 @@
 | [0090-subsets-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0389-find-the-difference) |
@@ -980,6 +982,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
