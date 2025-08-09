@@ -109,6 +109,7 @@
 | [0541-reverse-string-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0812-rotate-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -253,6 +254,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/ayyappa4512/LEETCODE/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [0841-shortest-distance-to-a-character](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayyappa4512/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
@@ -421,6 +423,7 @@
 | [0455-assign-cookies](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0841-shortest-distance-to-a-character](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0941-sort-array-by-parity) |
