@@ -27,6 +27,7 @@
 | [0650-2-keys-keyboard](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0650-2-keys-keyboard) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
 | [0944-smallest-range-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1031-add-to-array-form-of-integer) |
@@ -499,6 +500,7 @@
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0958-sort-array-by-parity-ii) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -572,6 +574,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayyappa4512/LEETCODE/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3199-distribute-candies-among-children-i) |
@@ -600,6 +603,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
 | [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -820,6 +824,7 @@
 | [0169-majority-element](https://github.com/ayyappa4512/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ayyappa4512/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/ayyappa4512/LEETCODE/tree/master/1364-tuple-with-same-product) |
