@@ -276,6 +276,7 @@
 | [1241-decompress-run-length-encoded-list](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1293-three-consecutive-odds) |
+| [1306-minimum-absolute-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1306-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ayyappa4512/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/ayyappa4512/LEETCODE/tree/master/1364-tuple-with-same-product) |
@@ -506,6 +507,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0958-sort-array-by-parity-ii) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayyappa4512/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
