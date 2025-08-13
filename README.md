@@ -19,6 +19,7 @@
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0492-construct-the-rectangle) |
@@ -994,6 +995,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
