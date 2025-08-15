@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0492-construct-the-rectangle) |
@@ -706,6 +707,7 @@
 | [0231-power-of-two](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
@@ -997,6 +999,7 @@
 | [0050-powx-n](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
