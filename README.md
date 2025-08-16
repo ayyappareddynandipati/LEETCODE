@@ -39,6 +39,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayyappa4512/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1448-maximum-69-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -742,6 +743,7 @@
 | [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1448-maximum-69-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ayyappa4512/LEETCODE/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/ayyappa4512/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
