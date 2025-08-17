@@ -103,6 +103,7 @@
 | [0242-valid-anagram](https://github.com/ayyappa4512/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayyappa4512/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/0415-add-strings) |
@@ -602,6 +603,7 @@
 | [0242-valid-anagram](https://github.com/ayyappa4512/LEETCODE/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayyappa4512/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -832,6 +834,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ayyappa4512/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/ayyappa4512/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
