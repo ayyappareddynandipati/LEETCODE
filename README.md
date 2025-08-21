@@ -114,6 +114,7 @@
 | [0520-detect-capital](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [0768-partition-labels](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0874-backspace-string-compare) |
@@ -434,6 +435,7 @@
 | [0455-assign-cookies](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0874-backspace-string-compare) |
@@ -614,6 +616,7 @@
 | [0496-next-greater-element-i](https://github.com/ayyappa4512/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
+| [0768-partition-labels](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
@@ -745,6 +748,7 @@
 | [0410-split-array-largest-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0561-array-partition) |
+| [0768-partition-labels](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
