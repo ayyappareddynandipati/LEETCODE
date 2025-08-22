@@ -813,6 +813,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0725-split-linked-list-in-parts) |
@@ -1012,6 +1013,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0326-power-of-three) |
