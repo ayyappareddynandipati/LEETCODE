@@ -250,6 +250,7 @@
 | [0455-assign-cookies](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ayyappa4512/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -544,6 +545,7 @@
 | [0059-spiral-matrix-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ayyappa4512/LEETCODE/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/ayyappa4512/LEETCODE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -786,6 +788,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ayyappa4512/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayyappa4512/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
