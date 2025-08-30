@@ -22,6 +22,7 @@
 | [0326-power-of-three](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/0415-add-strings) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0504-base-7) |
@@ -109,6 +110,7 @@
 | [0389-find-the-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/0415-add-strings) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0434-number-of-segments-in-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayyappa4512/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ayyappa4512/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -623,6 +625,7 @@
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0389-find-the-difference) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayyappa4512/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ayyappa4512/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
