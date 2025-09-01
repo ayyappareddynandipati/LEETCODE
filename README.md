@@ -225,6 +225,7 @@
 | [0046-permutations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ayyappa4512/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ayyappa4512/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ayyappa4512/LEETCODE/tree/master/0066-plus-one) |
@@ -695,6 +696,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayyappa4512/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyappa4512/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -762,6 +764,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0410-split-array-largest-sum) |
