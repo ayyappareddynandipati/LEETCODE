@@ -1013,6 +1013,7 @@
 | [0620-not-boring-movies](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/ayyappa4512/LEETCODE/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1827-invalid-tweets) |
+| [1877-find-followers-count](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ayyappa4512/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ayyappa4512/LEETCODE/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Union Find
