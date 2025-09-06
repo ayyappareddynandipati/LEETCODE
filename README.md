@@ -1011,6 +1011,7 @@
 | [0183-customers-who-never-order](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/ayyappa4512/LEETCODE/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ayyappa4512/LEETCODE/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/ayyappa4512/LEETCODE/tree/master/1258-article-views-i) |
