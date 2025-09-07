@@ -1009,6 +1009,7 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0183-customers-who-never-order) |
+| [0197-rising-temperature](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/ayyappa4512/LEETCODE/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ayyappa4512/LEETCODE/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0596-classes-with-at-least-5-students) |
