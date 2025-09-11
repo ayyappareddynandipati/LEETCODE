@@ -183,6 +183,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2886-faulty-keyboard) |
+| [2887-sort-vowels-in-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3194-find-words-containing-character) |
@@ -546,6 +547,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
