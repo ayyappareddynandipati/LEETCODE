@@ -205,6 +205,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3811-reverse-degree-of-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3811-reverse-degree-of-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
 | ------- |
@@ -696,6 +697,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
 |  |
@@ -910,6 +912,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Brainteaser
 |  |
