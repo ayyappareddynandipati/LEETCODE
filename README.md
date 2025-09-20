@@ -1037,6 +1037,7 @@
 | [1258-article-views-i](https://github.com/ayyappa4512/LEETCODE/tree/master/1258-article-views-i) |
 | [1338-queries-quality-and-percentage](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1390-average-selling-price) |
+| [1811-fix-names-in-a-table](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ayyappa4512/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
