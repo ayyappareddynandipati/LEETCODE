@@ -1047,6 +1047,7 @@
 | [1258-article-views-i](https://github.com/ayyappa4512/LEETCODE/tree/master/1258-article-views-i) |
 | [1338-queries-quality-and-percentage](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1390-average-selling-price) |
+| [1415-students-and-examinations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1415-students-and-examinations) |
 | [1625-group-sold-products-by-the-date](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
