@@ -371,6 +371,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/ayyappa4512/LEETCODE/tree/master/2411-spiral-matrix-iv) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ayyappa4512/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -476,6 +477,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayyappa4512/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayyappa4512/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/ayyappa4512/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
@@ -515,6 +517,7 @@
 | [1646-kth-missing-positive-number](https://github.com/ayyappa4512/LEETCODE/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayyappa4512/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -550,6 +553,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayyappa4512/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
