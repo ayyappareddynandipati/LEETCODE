@@ -137,6 +137,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayyappa4512/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ayyappa4512/LEETCODE/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
@@ -307,6 +308,7 @@
 | [1306-minimum-absolute-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1306-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ayyappa4512/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/ayyappa4512/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayyappa4512/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -549,6 +551,7 @@
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1306-minimum-absolute-difference) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayyappa4512/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -662,6 +665,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/ayyappa4512/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayyappa4512/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
