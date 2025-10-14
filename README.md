@@ -433,6 +433,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayyappa4512/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
