@@ -435,6 +435,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayyappa4512/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -572,6 +573,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 | [3859-maximum-product-of-two-digits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
@@ -826,6 +828,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
 |  |
