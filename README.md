@@ -83,6 +83,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -209,6 +210,7 @@
 | [3636-check-balanced-string](https://github.com/ayyappa4512/LEETCODE/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -218,6 +220,7 @@
 | [0204-count-primes](https://github.com/ayyappa4512/LEETCODE/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1585-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ayyappa4512/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Array
 |  |
@@ -624,12 +627,14 @@
 | [3533-snake-in-matrix](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3811-reverse-degree-of-a-string) |
 ## Combinatorics
 |  |
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3199-distribute-candies-among-children-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
