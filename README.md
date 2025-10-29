@@ -104,6 +104,7 @@
 | [0038-count-and-say](https://github.com/ayyappa4512/LEETCODE/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/ayyappa4512/LEETCODE/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/ayyappa4512/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0171-excel-sheet-column-number) |
@@ -657,6 +658,7 @@
 | [0012-integer-to-roman](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayyappa4512/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ayyappa4512/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ayyappa4512/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ayyappa4512/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -975,6 +977,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayyappa4512/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
