@@ -669,6 +669,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ayyappa4512/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ayyappa4512/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ayyappa4512/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -908,6 +909,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0328-odd-even-linked-list) |
