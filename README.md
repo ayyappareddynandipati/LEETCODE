@@ -399,6 +399,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/ayyappa4512/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -817,6 +818,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2659-number-of-even-and-odd-bits) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
@@ -988,6 +990,7 @@
 | [1086-divisor-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3462-vowels-game-in-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 ## Divide and Conquer
 |  |
