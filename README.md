@@ -208,6 +208,7 @@
 | [3451-string-compression-iii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3533-snake-in-matrix](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3533-snake-in-matrix) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3567-convert-date-to-binary) |
@@ -864,6 +865,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
@@ -980,6 +982,7 @@
 | [3324-split-the-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3324-split-the-array) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
