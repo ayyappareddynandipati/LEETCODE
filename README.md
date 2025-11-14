@@ -413,6 +413,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayyappa4512/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2737-row-with-maximum-ones) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -731,6 +732,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayyappa4512/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayyappa4512/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -821,6 +823,7 @@
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2659-number-of-even-and-odd-bits) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
