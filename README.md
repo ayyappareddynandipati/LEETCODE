@@ -45,6 +45,7 @@
 | [1500-count-largest-group](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -151,6 +152,7 @@
 | [1542-consecutive-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1666-make-the-string-great) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
