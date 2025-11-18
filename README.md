@@ -290,6 +290,7 @@
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/ayyappa4512/LEETCODE/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0735-asteroid-collision) |
