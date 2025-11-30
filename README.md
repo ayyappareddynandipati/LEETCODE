@@ -348,6 +348,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/ayyappa4512/LEETCODE/tree/master/1646-kth-missing-positive-number) |
@@ -720,6 +721,7 @@
 | [1500-count-largest-group](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
+| [1590-make-sum-divisible-by-p](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1813-maximum-erasure-value) |
@@ -915,6 +917,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1590-make-sum-divisible-by-p](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1833-find-the-highest-altitude) |
