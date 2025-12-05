@@ -77,6 +77,7 @@
 | [3321-type-of-triangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -450,6 +451,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3429-special-array-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayyappa4512/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -928,6 +930,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayyappa4512/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |
