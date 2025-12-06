@@ -1161,6 +1161,7 @@
 | [1773-percentage-of-users-attended-a-contest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1811-fix-names-in-a-table](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1827-invalid-tweets) |
+| [1873-calculate-special-bonus](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1873-calculate-special-bonus) |
 | [1877-find-followers-count](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ayyappa4512/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
