@@ -53,6 +53,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ayyappa4512/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1925-count-square-sum-triples](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ayyappa4512/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2050-count-good-numbers) |
@@ -674,6 +675,7 @@
 | [0204-count-primes](https://github.com/ayyappa4512/LEETCODE/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1925-count-square-sum-triples) |
 | [2998-count-symmetric-integers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3199-distribute-candies-among-children-i) |
 | [3221-find-the-peaks](https://github.com/ayyappa4512/LEETCODE/tree/master/3221-find-the-peaks) |
