@@ -1168,6 +1168,7 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1795-rearrange-products-table](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1795-rearrange-products-table) |
 | [1811-fix-names-in-a-table](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1827-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1873-calculate-special-bonus) |
