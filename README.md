@@ -134,6 +134,7 @@
 | [0657-robot-return-to-origin](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0768-partition-labels) |
+| [0771-jewels-and-stones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0874-backspace-string-compare) |
@@ -716,6 +717,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0768-partition-labels) |
+| [0771-jewels-and-stones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
