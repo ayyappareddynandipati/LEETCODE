@@ -204,6 +204,7 @@
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ayyappa4512/LEETCODE/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
@@ -432,6 +433,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayyappa4512/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2737-row-with-maximum-ones) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -660,6 +662,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/ayyappa4512/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/ayyappa4512/LEETCODE/tree/master/2698-find-the-array-concatenation-value) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2857-total-distance-traveled](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2857-total-distance-traveled) |
 | [2886-faulty-keyboard](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2886-faulty-keyboard) |
@@ -761,6 +764,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayyappa4512/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayyappa4512/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
