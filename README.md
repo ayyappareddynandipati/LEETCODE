@@ -176,6 +176,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/ayyappa4512/LEETCODE/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayyappa4512/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/ayyappa4512/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -377,6 +378,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2047-find-a-peak-element-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -635,6 +637,7 @@
 | [1642-water-bottles](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayyappa4512/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
