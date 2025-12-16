@@ -10,12 +10,19 @@ class Solution {
         int ans=0;
         int n=words.length;
         for(int i=0;i<n-1;i++){
+            String a=words[i];
+            if(a.equals("0")){
+                continue;
+            }
             for(int j=i+1;j<n;j++){
-                 String a=words[i];
+                 
                  String b=words[j];
+                 
                  String revb=reverse(b);
                  if(revb.equals(a)){
                     ans++;
+                    words[j]="0";
+                    break;
                  }
             }
         }
