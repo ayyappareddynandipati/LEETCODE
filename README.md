@@ -383,6 +383,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2047-find-a-peak-element-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
