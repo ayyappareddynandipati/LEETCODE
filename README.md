@@ -335,6 +335,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1293-three-consecutive-odds) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1306-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ayyappa4512/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
