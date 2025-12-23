@@ -3,13 +3,17 @@ class Solution {
         int n=colors.length;
         int max=0;
         for(int i=0;i<n-1;i++){
-            for(int j=i+1;j<n;j++){
-                if(colors[i]!=colors[j]){
-                    int diff=j-i;
-                    max=Math.max(max,diff);
+                if(colors[i]!=colors[n-1]){
+                    max=Math.max(max,n-1-i);
+                    break;
                 }
             }
-        }
+            for(int i=n-1;i>=1;i--){
+                  if(colors[0]!=colors[i]){
+                    max=Math.max(max,i);
+                    break;
+                }
+            }
         return max;
     }
 }
