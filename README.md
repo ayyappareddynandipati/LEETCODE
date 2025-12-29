@@ -44,6 +44,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1500-count-largest-group) |
+| [1512-number-of-good-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -350,6 +351,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayyappa4512/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1524-string-matching-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
@@ -742,6 +744,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
 | [1590-make-sum-divisible-by-p](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -1008,6 +1011,7 @@
 | [1364-tuple-with-same-product](https://github.com/ayyappa4512/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/1848-sum-of-unique-elements) |
