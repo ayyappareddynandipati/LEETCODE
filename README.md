@@ -193,6 +193,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/ayyappa4512/LEETCODE/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
+| [2325-decode-the-message](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2325-decode-the-message) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -760,6 +761,7 @@
 | [2107-find-unique-binary-string](https://github.com/ayyappa4512/LEETCODE/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ayyappa4512/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
+| [2325-decode-the-message](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2325-decode-the-message) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
