@@ -1204,6 +1204,7 @@
 | [2127-employees-whose-manager-left-the-company](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ayyappa4512/LEETCODE/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3436-find-valid-emails) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Union Find
 |  |
 | ------- |
