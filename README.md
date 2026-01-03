@@ -337,6 +337,7 @@
 | [1241-decompress-run-length-encoded-list](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1293-three-consecutive-odds](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1306-minimum-absolute-difference) |
@@ -740,6 +741,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/ayyappa4512/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayyappa4512/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -892,6 +894,7 @@
 | [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
