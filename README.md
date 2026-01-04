@@ -389,6 +389,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -617,6 +618,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayyappa4512/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1083,6 +1085,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayyappa4512/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayyappa4512/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
