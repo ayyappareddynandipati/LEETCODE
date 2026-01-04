@@ -1,28 +1,27 @@
 class Solution {
-     public boolean fun(String s,int k){
-        HashSet<Character> hs=new HashSet<>();
-       for( int i=0;i<s.length();i++){
-           char ch=s.charAt(i);
-           hs.add(ch);
-       }
-        if(hs.size()==k){
-        return true;}
-        else{
-            return false;
-        }
-    }
-   
     public int countGoodSubstrings(String s) {
-        
        int n=s.length();
        int ans=0;
        int k=3;
-       for(int i=0;i<n-k+1;i++){
-       boolean temp=fun(s.substring(i,i+k),k);
-       if(temp){
-           ans+=1;
-       }
-       }
-      return ans;
+       HashMap<Character,Integer> hm=new HashMap<>();
+     int l=0;
+     for(int r=0;r<s.length();r++){
+          char ch=s.charAt(r);
+          hm.put(ch,hm.getOrDefault(ch,0)+1);
+
+if(r-l==3){
+    char tch=s.charAt(l);
+    hm.put(tch,hm.get(tch)-1);
+    if(hm.get(tch)==0){
+        hm.remove(tch);
+    }l++;
+} 
+
+
+          if(hm.size()==3){
+              ans+=1;
+          }
+     }
+     return ans;
     }
 }
