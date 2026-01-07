@@ -436,6 +436,7 @@
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2551-apply-operations-to-an-array](https://github.com/ayyappa4512/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -630,6 +631,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -953,6 +955,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayyappa4512/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/ayyappa4512/LEETCODE/tree/master/2411-spiral-matrix-iv) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2737-row-with-maximum-ones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayyappa4512/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
