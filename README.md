@@ -216,6 +216,7 @@
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3194-find-words-containing-character) |
+| [3271-hash-divided-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3271-hash-divided-string) |
 | [3312-number-of-changing-keys](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3312-number-of-changing-keys) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3396-valid-word](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3396-valid-word) |
@@ -688,6 +689,7 @@
 | [2857-total-distance-traveled](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2857-total-distance-traveled) |
 | [2886-faulty-keyboard](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3226-minimum-number-game) |
+| [3271-hash-divided-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3271-hash-divided-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayyappa4512/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ayyappa4512/LEETCODE/tree/master/3447-clear-digits) |
