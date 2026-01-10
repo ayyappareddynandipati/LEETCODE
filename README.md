@@ -136,6 +136,7 @@
 | [0541-reverse-string-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0768-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0812-rotate-string) |
@@ -835,6 +836,7 @@
 | [0410-split-array-largest-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0943-sum-of-subarray-minimums) |
 | [1086-divisor-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1086-divisor-game) |
