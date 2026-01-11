@@ -48,6 +48,7 @@
 | [1500-count-largest-group](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1500-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1585-the-kth-factor-of-n](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -369,6 +370,7 @@
 | [1547-destination-city](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1547-destination-city) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1552-build-an-array-with-stack-operations) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -630,6 +632,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayyappa4512/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -863,6 +866,7 @@
 | ------- |
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1086-divisor-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3462-vowels-game-in-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Bit Manipulation
@@ -920,6 +924,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1448-maximum-69-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1880-largest-merge-of-two-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1880-largest-merge-of-two-strings) |
