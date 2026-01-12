@@ -323,6 +323,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayyappa4512/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0932-monotonic-array) |
@@ -756,6 +757,7 @@
 | [0771-jewels-and-stones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [0904-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -1104,6 +1106,7 @@
 | [0239-sliding-window-maximum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayyappa4512/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1034-subarrays-with-k-different-integers) |
