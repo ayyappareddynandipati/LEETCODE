@@ -490,6 +490,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayyappa4512/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3453-separate-squares-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayyappa4512/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -601,6 +602,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayyappa4512/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3453-separate-squares-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3453-separate-squares-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
