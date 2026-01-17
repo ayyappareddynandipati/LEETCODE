@@ -37,6 +37,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1031-add-to-array-form-of-integer) |
 | [1048-clumsy-factorial](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1048-clumsy-factorial) |
 | [1086-divisor-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1086-divisor-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-day-of-the-year](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1260-day-of-the-year) |
 | [1362-closest-divisors](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1362-closest-divisors) |
 | [1390-four-divisors](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1390-four-divisors) |
@@ -345,6 +346,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1241-decompress-run-length-encoded-list) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -768,6 +770,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -990,6 +993,7 @@
 | [0724-find-pivot-index](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
@@ -1117,6 +1121,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayyappa4512/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
