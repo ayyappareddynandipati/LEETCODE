@@ -328,6 +328,7 @@
 | [0904-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0909-stone-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0932-monotonic-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0941-sort-array-by-parity) |
@@ -765,6 +766,7 @@
 | [0900-reordered-power-of-2](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0906-walking-robot-simulation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0906-walking-robot-simulation) |
+| [0930-binary-subarrays-with-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -991,6 +993,7 @@
 | [0410-split-array-largest-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -1117,6 +1120,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayyappa4512/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1034-subarrays-with-k-different-integers) |
