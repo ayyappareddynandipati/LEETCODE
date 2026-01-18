@@ -77,6 +77,7 @@
 | [2857-total-distance-traveled](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2857-total-distance-traveled) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2998-count-symmetric-integers) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3199-distribute-candies-among-children-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3199-distribute-candies-among-children-i) |
@@ -467,6 +468,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayyappa4512/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ayyappa4512/LEETCODE/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -1332,6 +1334,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0223-rectangle-area) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Segment Tree
 |  |
 | ------- |
