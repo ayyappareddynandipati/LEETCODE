@@ -598,6 +598,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ayyappa4512/LEETCODE/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1372,4 +1373,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
