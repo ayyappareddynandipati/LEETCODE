@@ -422,6 +422,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2047-find-a-peak-element-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2048-build-array-from-permutation) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/ayyappa4512/LEETCODE/tree/master/2107-find-unique-binary-string) |
@@ -629,6 +630,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2047-find-a-peak-element-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -979,6 +981,7 @@
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ayyappa4512/LEETCODE/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1975-maximum-matrix-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/ayyappa4512/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
