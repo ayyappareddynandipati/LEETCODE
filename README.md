@@ -438,6 +438,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayyappa4512/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2181-smallest-index-with-equal-value](https://github.com/ayyappa4512/LEETCODE/tree/master/2181-smallest-index-with-equal-value) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2195-time-needed-to-buy-tickets) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2232-adding-spaces-to-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayyappa4512/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -635,6 +636,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2047-find-a-peak-element-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
