@@ -201,6 +201,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ayyappa4512/LEETCODE/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/ayyappa4512/LEETCODE/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
@@ -770,6 +771,7 @@
 | [0900-reordered-power-of-2](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1925-count-square-sum-triples) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2998-count-symmetric-integers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3199-distribute-candies-among-children-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3199-distribute-candies-among-children-i) |
@@ -996,6 +998,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
