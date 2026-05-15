@@ -121,6 +121,7 @@
 | [0067-add-binary](https://github.com/ayyappa4512/LEETCODE/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayyappa4512/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0171-excel-sheet-column-number) |
@@ -562,6 +563,7 @@
 | [0042-trapping-rain-water](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ayyappa4512/LEETCODE/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ayyappa4512/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0165-compare-version-numbers) |
