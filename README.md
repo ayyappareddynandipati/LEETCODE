@@ -189,6 +189,7 @@
 | [1944-truncate-sentence](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/ayyappa4512/LEETCODE/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -424,6 +425,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
