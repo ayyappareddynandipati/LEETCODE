@@ -545,6 +545,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayyappa4512/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3731-find-missing-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ayyappa4512/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -716,6 +717,7 @@
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ayyappa4512/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3606-coupon-code-validator](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3731-find-missing-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 | [3859-maximum-product-of-two-digits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
@@ -892,6 +894,7 @@
 | [3606-coupon-code-validator](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayyappa4512/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3731-find-missing-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
