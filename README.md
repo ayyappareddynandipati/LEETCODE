@@ -544,6 +544,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayyappa4512/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3731-find-missing-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -984,6 +985,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayyappa4512/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Greedy
 |  |
