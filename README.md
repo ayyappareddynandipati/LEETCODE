@@ -142,6 +142,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ayyappa4512/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -581,6 +582,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0841-shortest-distance-to-a-character) |
@@ -824,6 +826,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ayyappa4512/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ayyappa4512/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0768-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0771-jewels-and-stones) |
@@ -1202,6 +1205,7 @@
 | [0239-sliding-window-maximum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayyappa4512/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0940-fruit-into-baskets) |
