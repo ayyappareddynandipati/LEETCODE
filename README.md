@@ -372,6 +372,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1256-rank-transform-of-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1267-count-servers-that-communicate](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -1057,6 +1058,7 @@
 | [0498-diagonal-traverse](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0861-flipping-an-image) |
+| [1267-count-servers-that-communicate](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayyappa4512/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -1127,12 +1129,14 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0386-lexicographical-numbers) |
+| [1267-count-servers-that-communicate](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0279-perfect-squares) |
+| [1267-count-servers-that-communicate](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -1149,6 +1153,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1267-count-servers-that-communicate](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ayyappa4512/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/ayyappa4512/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -1436,4 +1441,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0278-first-bad-version) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
