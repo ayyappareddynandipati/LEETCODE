@@ -553,6 +553,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayyappa4512/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3693-climbing-stairs-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ayyappa4512/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -941,6 +942,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayyappa4512/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3693-climbing-stairs-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
