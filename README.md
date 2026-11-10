@@ -118,6 +118,7 @@
 | [0013-roman-to-integer](https://github.com/ayyappa4512/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayyappa4512/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ayyappa4512/LEETCODE/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ayyappa4512/LEETCODE/tree/master/0067-add-binary) |
@@ -918,6 +919,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ayyappa4512/LEETCODE/tree/master/0053-maximum-subarray) |
@@ -1305,6 +1307,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0077-combinations) |
@@ -1451,4 +1454,8 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/1267-count-servers-that-communicate) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
