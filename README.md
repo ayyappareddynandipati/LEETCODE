@@ -102,6 +102,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3817-maximum-containers-on-a-ship](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -1054,6 +1055,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
 | ------- |
