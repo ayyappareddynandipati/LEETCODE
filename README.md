@@ -494,6 +494,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/ayyappa4512/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -727,6 +728,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
@@ -1051,6 +1053,7 @@
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ayyappa4512/LEETCODE/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2487-optimal-partition-of-string](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2487-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
