@@ -302,6 +302,7 @@
 | [0090-subsets-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyappa4512/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ayyappa4512/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0134-gas-station) |
@@ -938,6 +939,7 @@
 | [0055-jump-game](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayyappa4512/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/ayyappareddynandipati/LEETCODE/tree/master/0264-ugly-number-ii) |
